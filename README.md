@@ -63,7 +63,7 @@ Then go to localhost:3000
 * [Heroku](https://id.heroku.com/login)
 
 ## Authors
-* [Prakalp Shakya](https://github.com/prakalpshakya31)
+* Sameer Mohre
 
 ## Acknowledgments
 * Colt Steele's Bootcamp course
